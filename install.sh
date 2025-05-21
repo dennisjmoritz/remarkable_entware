@@ -90,7 +90,7 @@ done
 
 echo "Info: Opkg package manager deployment..."
 DLOADER="ld-linux.so.3"
-URL=http://bin.entware.net/armv7sf-k3.2/installer
+URL=https://bin.entware.net/armv7sf-k3.2/installer
 REPO=Evidlo/remarkable_entware
 
 mkdir -p $HASH_LOCATION
